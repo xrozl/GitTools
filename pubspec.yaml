@@ -1,0 +1,7 @@
+name: GitTools
+dependencies:
+  args: any
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+executables:
+  GitTools:
